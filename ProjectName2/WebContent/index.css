@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+html{
+	background-color:blue;
+}
+p{
+	color:white;
+	font-size:30px;
+}
+div{
+	flex-wrap:wrap;
+}
